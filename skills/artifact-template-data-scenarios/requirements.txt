@@ -1,0 +1,7 @@
+lxml
+openpyxl
+python-pptx
+pdfplumber
+pdf2image
+pypdf
+Pillow

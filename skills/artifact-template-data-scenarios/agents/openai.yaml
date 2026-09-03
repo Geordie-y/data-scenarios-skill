@@ -1,0 +1,7 @@
+interface:
+  display_name: "数据应用场景材料 data-scenarios"
+  short_description: "根据多格式资料编写完整、正式的数据应用场景材料"
+  icon_large: "./assets/preview.png"
+  default_prompt: "使用 $artifact-template-data-scenarios，根据附件编写正式数据应用场景材料，缺少的方案内容按业务逻辑补全，并交付来源与编制说明。"
+policy:
+  allow_implicit_invocation: true
